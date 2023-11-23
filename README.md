@@ -18,7 +18,6 @@ MessagePublisher new publish
 - 🌱 I’m currently learning **Ruby on Rails**
 
 ### Experience
-
 [<img align="left" height="94px" width="94px" alt="IBM" src="https://www.ibm.com/brand/experience-guides/developer/8f4e3cc2b5d52354a6d43c8edba1e3c9/02_8-bar-reverse.svg"/>](https://www.ibm.com/)
 
 **COBOL Developer** \
